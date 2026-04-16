@@ -1,0 +1,25 @@
+ticket,language,category,subcategory,sentiment,urgency,team,priority
+My payment failed and I need help urgently,en,Billing,Payment Issue,Negative,High,Billing Team,P1
+Payment got deducted twice from my account,en,Billing,Payment Issue,Neutral,Medium,Billing Team,P2
+I cannot login to my account,en,Account,Login Issue,Neutral,Medium,Account Team,P2
+App crashes when I click the button,en,Technical,App Error,Neutral,Medium,Tech Team,P2
+No puedo iniciar sesión en mi cuenta,es,General,Other,Neutral,Medium,Support Team,P2
+Mi pago falló y necesito ayuda urgente,es,General,Other,Neutral,High,Support Team,P1
+Je ne comprends pas la facture,fr,General,Other,Neutral,Medium,Support Team,P2
+Mon application plante quand je clique,fr,General,Other,Neutral,Medium,Support Team,P2
+Ich kann mich nicht anmelden,de,General,Other,Neutral,Medium,Support Team,P2
+Meine Zahlung ist fehlgeschlagen,de,General,Other,Neutral,Medium,Support Team,P2
+मुझे लॉगिन करने में समस्या है,hi,General,Other,Neutral,Medium,Support Team,P2
+मेरा भुगतान विफल हो गया,hi,General,Other,Neutral,Medium,Support Team,P2
+私はログインできません,ja,General,Other,Neutral,Medium,Support Team,P2
+支払いに失敗しました,ja,General,Other,Neutral,Medium,Support Team,P2
+Minha conta está bloqueada,pt,General,Other,Neutral,Medium,Support Team,P2
+Meu pagamento falhou,pt,General,Other,Neutral,Medium,Support Team,P2
+Il pagamento non funziona,it,General,Other,Neutral,Medium,Support Team,P2
+Non riesco ad accedere al mio account,it,Account,Login Issue,Neutral,Medium,Account Team,P2
+Ошибка при входе в аккаунт,ru,General,Other,Neutral,Medium,Support Team,P2
+Платеж не прошел,bg,General,Other,Neutral,Medium,Support Team,P2
+التطبيق يتعطل عند فتحه,ar,General,Other,Neutral,Medium,Support Team,P2
+فشل الدفع الخاص بي,ar,General,Other,Neutral,Medium,Support Team,P2
+登录时出现错误,zh-cn,General,Other,Neutral,Medium,Support Team,P2
+付款失败了,ko,General,Other,Neutral,Medium,Support Team,P2
